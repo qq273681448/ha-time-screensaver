@@ -7,7 +7,7 @@
 ### 方法1
 1. 首先确保已安装HACS
 2. 在HACS中添加自定义仓库https://github.com/qq273681448/ha-time-screensaver
-3. 搜索"Time Screensaver"并安装
+3. 搜索"TimeScreensaver"并安装
 4. 刷新页面
 ### 方法2【暂不支持】
 1. 搜索"Time Screensaver"并安装
