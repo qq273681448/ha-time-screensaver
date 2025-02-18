@@ -1,5 +1,7 @@
 # Home Assistant Time Screensaver
 
+https://www.bilibili.com/video/BV1JTwfecEUn/
+
 这是一个Home Assistant的HACS前端插件，用于在Home Assistant界面上添加屏保功能。
 
 ![alt text](img/image.png)
