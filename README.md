@@ -16,16 +16,13 @@ https://www.bilibili.com/video/BV1JTwfecEUn/
 2. 刷新页面
 
 ## URL上参数配置
-### screenTime 参数
-自动进入屏保时间（秒，默认60秒）
-
-screenTime=-1 时，屏保程序完全不会启动
+### screenTime 参数【已调整】
+自动进入屏保时间（秒，默认不进入屏保）新版不会自动60秒进入屏保，新版本不配置url地址，不会进屏保
 
 例如：
 
-?screenTime=-1 - 不启动屏保
-
-?screenTime=5 - 5秒后启动屏保
+?screenTime=5    
+5秒后启动屏保
 
 
 ### allPage 参数
