@@ -15,6 +15,15 @@ https://www.bilibili.com/video/BV1JTwfecEUn/
 1. 搜索"Time Screensaver"并安装
 2. 刷新页面
 
+## 更新日志
+### 2025.03.04
+1. 支持在设备实体里直接修改屏保时间
+2. 优化allPage控制所有页面显示屏保逻辑
+3. F12新增提示屏保涉及页面及秒数。“所有页面 屏保时间: 10 秒。”
+4. 修复ipad等触摸设备点击不消失bug
+
+
+
 ## URL上参数配置
 ### screenTime 参数
 自动进入屏保时间（秒，默认60秒）
