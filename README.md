@@ -1,6 +1,7 @@
 # Home Assistant Time Screensaver
 
-https://www.bilibili.com/video/BV1JTwfecEUn/
+基本设置 https://www.bilibili.com/video/BV1JTwfecEUn/
+进阶设置 https://www.bilibili.com/video/BV1wJ9SYQEHY/
 
 这是一个Home Assistant的HACS前端插件，用于在Home Assistant界面上添加屏保功能。
 
@@ -17,7 +18,7 @@ https://www.bilibili.com/video/BV1JTwfecEUn/
 
 ## 更新日志
 ### 2025.03.04
-1. 支持在设备实体里直接修改屏保时间
+1. 支持在设备实体里直接修改屏保时间（新增辅助元素：数值screen_saver_timeout）
 2. 优化allPage控制所有页面显示屏保逻辑
 3. F12新增提示屏保涉及页面及秒数。“所有页面 屏保时间: 10 秒。”
 4. 修复ipad等触摸设备点击不消失bug
@@ -36,6 +37,10 @@ screenTime=-1 时，屏保程序完全不会启动
 
 ?screenTime=5 - 5秒后启动屏保
 
+#### 还可以通过辅助元素控制
+![Alt text](img/image2.png)
+
+#### 优先级：url参数>辅助元素
 
 ### allPage 参数
 
