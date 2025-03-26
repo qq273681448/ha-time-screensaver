@@ -1,7 +1,10 @@
 # Home Assistant Time Screensaver
 
-基本设置 https://www.bilibili.com/video/BV1JTwfecEUn/
-进阶设置 https://www.bilibili.com/video/BV1wJ9SYQEHY/
+基本设置 https://www.bilibili.com/video/BV1JTwfecEUn
+
+进阶设置 https://www.bilibili.com/video/BV1wJ9SYQEHY
+
+人来亮屏 https://www.bilibili.com/video/BV1Dao8YQEgx
 
 这是一个Home Assistant的HACS前端插件，用于在Home Assistant界面上添加屏保功能。
 
@@ -23,7 +26,10 @@
 3. F12新增提示屏保涉及页面及秒数。“所有页面 屏保时间: 10 秒。”
 4. 修复ipad等触摸设备点击不消失bug
 
-
+### 2025.03.26
+1. 增加修改屏保时间立即生效
+2. 支持让屏保消失（新增辅助元素：按钮screen_saver_bt）点击即消失
+3. 支持独立控制单设备
 
 ## URL上参数配置
 ### screenTime 参数
