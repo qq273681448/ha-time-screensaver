@@ -6,6 +6,8 @@
 
 人来亮屏 https://www.bilibili.com/video/BV1Dao8YQEgx
 
+控制平板屏保消失 https://v.douyin.com/61W-XwoV1UE/ 
+
 这是一个Home Assistant的HACS前端插件，用于在Home Assistant界面上添加屏保功能。
 
 ![alt text](img/image.png)
@@ -20,16 +22,17 @@
 2. 刷新页面
 
 ## 更新日志
-### 2025.03.04
-1. 支持在设备实体里直接修改屏保时间（新增辅助元素：数值screen_saver_timeout）
-2. 优化allPage控制所有页面显示屏保逻辑
-3. F12新增提示屏保涉及页面及秒数。“所有页面 屏保时间: 10 秒。”
-4. 修复ipad等触摸设备点击不消失bug
 
 ### 2025.03.26
 1. 增加修改屏保时间立即生效
 2. 支持让屏保消失（新增辅助元素：按钮screen_saver_bt）点击即消失
 3. 支持独立控制单设备
+
+### 2025.03.04
+1. 支持在设备实体里直接修改屏保时间（新增辅助元素：数值screen_saver_timeout）
+2. 优化allPage控制所有页面显示屏保逻辑
+3. F12新增提示屏保涉及页面及秒数。“所有页面 屏保时间: 10 秒。”
+4. 修复ipad等触摸设备点击不消失bug
 
 ## URL上参数配置
 ### screenTime 参数
