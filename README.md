@@ -24,6 +24,11 @@
 2. 刷新页面
 
 ## 更新日志
+### 2025-05-07
+  1. 修复url上screenTime参数在平板手机不生效
+  1. 修正url上allPage=0参数逻辑
+  1. 支持独立控制设备，url上新增参数screenId=a，则设备id为a，辅助元素为input_button.screen_saver_bt_a
+  1. 其他bug优化
 
 ### 2025.03.26
 1. 增加修改屏保时间立即生效
