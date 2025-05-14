@@ -8,6 +8,8 @@
 
 控制平板屏保消失 https://v.douyin.com/61W-XwoV1UE/ 
 
+【独立控制】设备关闭屏保 https://www.douyin.com/user/self?modal_id=7504318857876639033
+
 这是一个Home Assistant的HACS前端插件，用于在Home Assistant界面上添加屏保功能。
 
 ![alt text](img/image.png)
